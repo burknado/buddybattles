@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "shepherd_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:wool": 4,
+      "minecraft:emerald": 1
+    }
+  ]
+}

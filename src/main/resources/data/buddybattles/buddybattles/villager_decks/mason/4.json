@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "mason_4",
+    "default_4"
+  ],
+  "loot": [
+    {
+      "minecraft:clay": 8,
+      "minecraft:emerald": 2
+    }
+  ]
+}

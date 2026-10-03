@@ -1,0 +1,14 @@
+{
+  "decks": [
+    "enderling_1",
+    "enderling_2",
+    "enderling_3",
+    "enderling_4",
+    "enderling_5"
+  ],
+  "loot": [
+    {
+      "buddycards:buddycard_pack_mystery": 1
+    }
+  ]
+}

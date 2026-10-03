@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "cleric_4",
+    "default_4"
+  ],
+  "loot": [
+    {
+      "minecraft:redstone": 8,
+      "minecraft:emerald": 2
+    }
+  ]
+}

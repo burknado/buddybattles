@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "cartographer_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:paper": 4,
+      "minecraft:emerald": 1
+    }
+  ]
+}

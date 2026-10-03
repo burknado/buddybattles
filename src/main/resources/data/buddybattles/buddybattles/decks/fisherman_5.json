@@ -1,0 +1,11 @@
+{
+  "cards": {
+    "buddycards:buddycard_base8": 3,
+    "buddycards:buddycard_base9": 3,
+    "buddycards:buddycard_end5": 3,
+    "buddycards:buddycard_nether16": 2,
+    "buddycards:buddycard_base25": 2,
+    "buddycards:buddycard_base35": 2,
+    "buddycards:buddycard_cave27": 1
+  }
+}

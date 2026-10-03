@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "fletcher_3",
+    "default_3"
+  ],
+  "loot": [
+    {
+      "minecraft:arrow": 8,
+      "minecraft:emerald": 1
+    }
+  ]
+}

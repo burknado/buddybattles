@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "librarian_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:book": 2,
+      "minecraft:emerald": 1
+    }
+  ]
+}

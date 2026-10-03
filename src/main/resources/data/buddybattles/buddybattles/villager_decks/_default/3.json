@@ -1,0 +1,11 @@
+{
+  "decks": [
+    "default_3"
+  ],
+  "loot": [
+    {
+      "minecraft:stick": 8,
+      "minecraft:emerald": 1
+    }
+  ]
+}

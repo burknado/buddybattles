@@ -1,0 +1,11 @@
+{
+  "decks": [
+    "shepherd_1",
+    "default_1"
+  ],
+  "loot": [
+    {
+      "minecraft:wool": 4
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "decks": [
+    "farmer_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:wheat": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:carrot": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:potato": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:beetroot": 4,
+      "minecraft:emerald": 1
+    }
+  ]
+}

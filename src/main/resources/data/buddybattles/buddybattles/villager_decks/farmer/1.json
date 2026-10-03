@@ -1,0 +1,20 @@
+{
+  "decks": [
+    "farmer_1",
+    "default_1"
+  ],
+  "loot": [
+    {
+      "minecraft:wheat": 4
+    },
+    {
+      "minecraft:carrot": 4
+    },
+    {
+      "minecraft:potato": 4
+    },
+    {
+      "minecraft:beetroot": 4
+    }
+  ]
+}

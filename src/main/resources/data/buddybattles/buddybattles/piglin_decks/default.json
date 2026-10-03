@@ -1,0 +1,14 @@
+{
+  "decks": [
+    "piglin_1",
+    "piglin_2",
+    "piglin_3",
+    "piglin_4",
+    "piglin_5"
+  ],
+  "loot": [
+    {
+      "minecraft:gold_ingot": 4
+    }
+  ]
+}

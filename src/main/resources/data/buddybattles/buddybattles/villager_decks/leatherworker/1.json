@@ -1,0 +1,11 @@
+{
+  "decks": [
+    "leatherworker_1",
+    "default_1"
+  ],
+  "loot": [
+    {
+      "minecraft:leather": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "decks": [
+    "butcher_1",
+    "default_1"
+  ],
+  "loot": [
+    {
+      "minecraft:porkchop": 4
+    },
+    {
+      "minecraft:beef": 4
+    },
+    {
+      "minecraft:rabbit": 4
+    },
+    {
+      "minecraft:mutton": 4
+    }
+  ]
+}

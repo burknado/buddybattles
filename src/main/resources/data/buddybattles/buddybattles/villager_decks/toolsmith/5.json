@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "toolsmith_5",
+    "default_5"
+  ],
+  "loot": [
+    {
+      "minecraft:coal": 8,
+      "minecraft:emerald": 3
+    }
+  ]
+}

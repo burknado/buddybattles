@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "armorer_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:coal": 4,
+      "minecraft:emerald": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "decks": [
+    "weaponsmith_4",
+    "default_4"
+  ],
+  "loot": [
+    {
+      "minecraft:coal": 8,
+      "minecraft:emerald": 2
+    }
+  ]
+}

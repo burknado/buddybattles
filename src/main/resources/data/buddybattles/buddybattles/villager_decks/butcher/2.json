@@ -1,0 +1,24 @@
+{
+  "decks": [
+    "butcher_2",
+    "default_2"
+  ],
+  "loot": [
+    {
+      "minecraft:porkchop": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:beef": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:rabbit": 4,
+      "minecraft:emerald": 1
+    },
+    {
+      "minecraft:mutton": 4,
+      "minecraft:emerald": 1
+    }
+  ]
+}

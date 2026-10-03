@@ -1,0 +1,20 @@
+{
+  "decks": [
+    "fisherman_4",
+    "default_4"
+  ],
+  "loot": [
+    {
+      "minecraft:salmon": 8,
+      "minecraft:emerald": 2
+    },
+    {
+      "minecraft:cod": 8,
+      "minecraft:emerald": 2
+    },
+    {
+      "minecraft:string": 8,
+      "minecraft:emerald": 2
+    }
+  ]
+}
