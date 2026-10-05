@@ -3,14 +3,13 @@
 An addon for Buddycards that lets you battle NPCs and other players using your Buddycards.
 
 Right-click a player, villager, piglin or enderling while holding a deckbox to start a
-Buddycards duel - no playmat required.
+Buddycards duel.
 
 - **Villagers, piglins and enderlings** duel instantly. Their AI is paused for the duel,
   and they drop a reward if you win.
 - **Players** get a challenge request; they accept by right-clicking you back with
   their own deck.
 - Right-clicking someone already in a duel spectates it (no spectate screen yet).
-- A duel is aborted if either participant takes damage.
 - After starting a duel against a mob, you can't re-challenge that same mob for
   `rebattleCooldownSeconds`, so a bad opening hand can't be rerolled by escaping.
 
@@ -70,4 +69,4 @@ Licensed under GPLv3.
 ### AI Disclaimer
 AI was used as a tool in creating this mod.
 
-A real human looked over everything and made changes though (including the bad pixel art).
+A real human looked over everything and made changes though.
